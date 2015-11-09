@@ -1,0 +1,7 @@
+name: StopStopper
+main: de.eggi2.minecraft.plugins.stopStopper.StopStopper
+version: 0.1
+description: Stops the /stop command
+commands:
+   stop:
+        description: this is now DISABLED!
